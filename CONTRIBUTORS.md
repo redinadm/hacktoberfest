@@ -16672,3 +16672,8 @@ to explore life. Also, Python and Django Developer
 - Place: Semarang Indonesia
 - Bio: Student at SMP 1 Semarang
 - GitHub: [haidarmz](https://github.com/HaidarMZ)
+
+#### Name: [Redina Dwi Muryana](https://github.com/redinadm)
+- Place: Semarang Indonesia
+- Bio: Student at SMP 1 Semarang
+- GitHub: [redinadm](https://github.com/redinadm)
